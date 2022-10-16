@@ -7,7 +7,9 @@ export interface ButtonProps {
 }
 
 const Button: React.FC<ButtonProps> = ({ onClick, disabled, children }) => {
-    return <button disabled={disabled} onClick={onClick}>{ children }</button>
+    return <button disabled={disabled} onClick={onClick}>
+        {children}
+    </button>
 }
 
 export default Button
