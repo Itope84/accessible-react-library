@@ -1,0 +1,22 @@
+{
+  "name": "accessible-react-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Itope84/accessible-react-library.git"
+  },
+  "author": "Temitope Ilesanmi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Itope84/accessible-react-library/issues"
+  },
+  "homepage": "https://github.com/Itope84/accessible-react-library#readme",
+  "devDependencies": {
+    "@types/react": "^18.0.21",
+    "react": "^18.2.0",
+    "typescript": "^4.8.4"
+  }
+}
